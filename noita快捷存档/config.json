@@ -1,0 +1,7 @@
+{
+    "src_path": "%USERPROFILE%\\AppData\\LocalLow\\Nolla_Games_Noita\\save00",
+    "dst_dir": "%USERPROFILE%\\AppData\\LocalLow\\Nolla_Games_Noita\\备份",
+    "copy_hotkey": "ctrl+shift+x",
+    "exit_hotkey": "ctrl+shift+q",
+    "restore_hotkey": "shift+v" 
+}
