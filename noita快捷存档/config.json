@@ -3,5 +3,7 @@
     "dst_dir": "%USERPROFILE%\\AppData\\LocalLow\\Nolla_Games_Noita\\备份",
     "copy_hotkey": "ctrl+shift+x",
     "exit_hotkey": "ctrl+shift+q",
-    "restore_hotkey": "shift+v" 
+    "restore_hotkey": "shift+v",
+    "noita_path": "D:\\steam\\steamapps\\common\\Noita\\noita.exe",
+    "alert":"on"
 }
